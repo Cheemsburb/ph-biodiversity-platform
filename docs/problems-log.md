@@ -1,0 +1,3 @@
+**_11/14/2026_**
+1. **Occurence - GBIF:** I first decided to like ingest all available data then write a job that will run like once a month, but after ingesting a single snapshot which took almost an hour, it seems not feasible. Maybe i just write a batch job that will run everyday, so slowly the data will increase. 
+2. **Taxa, Observation - Inaturalist:**: I decided to filter at ingestion to save storage, idk how much the actual limit but there must be one.
