@@ -139,7 +139,7 @@ flowchart TB
 ## Roadmap
 
 - [x] Milestone 0: repo, cloud setup, scope
-- [ ] Milestone 1: bronze layer (GBIF and iNaturalist loaded to Delta)
+- [x] Milestone 1: bronze layer (GBIF and iNaturalist loaded to Delta)
 - [ ] Milestone 2: silver cleaning, taxonomy, deduplication, quarantine
 - [ ] Milestone 3: geographic and elevation enrichment
 - [ ] Milestone 4: gold tables
